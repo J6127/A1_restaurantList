@@ -1,12 +1,12 @@
-#畫面預覽
+## 畫面預覽
+<img src="https://github.com/J6127/A1_restaurantList/blob/main/cover.jpg">
 
-
-#開發環境
+## 開發環境
 Node.js
 Express 4.16.4
 Express-Handlers 3.0.0
 
-#使用方式
+## 使用方式
 1. 請確認已安裝Node.js和npm
 2. 請將專案下載至本地環境
 3. 安裝完成後，使用終端機輸入npm start
